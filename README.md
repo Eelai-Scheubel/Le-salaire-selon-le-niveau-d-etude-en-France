@@ -44,6 +44,5 @@ Les données utilisées proviennent des Fichiers de Production et de Recherche (
 Projet réalisé dans le cadre d'une analyse économique avec des méthodes de data science appliquées au salaire et à l'éducation en France.
 
 ## Licence
-
-Les scripts sont disponibles sous licence MIT, mais les données restent soumises aux restrictions des Fichiers de Production et de Recherche. **Toute diffusion non autorisée des données est strictement interdite.**
+Les données restent soumises aux restrictions des Fichiers de Production et de Recherche. **Toute diffusion non autorisée des données est strictement interdite.**
 
